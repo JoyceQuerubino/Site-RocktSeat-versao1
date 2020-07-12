@@ -6,8 +6,6 @@
   Desafio 2-3: Página de cursos e iframe
 </h3>
 
-<blockquote align="center">“Você nunca sai perdendo quando ganha conhecimento!”</blockquote>
-
 <p align="center">
 
   <a href="https://rocketseat.com.br">
@@ -17,3 +15,6 @@
   <a href="LICENSE" >
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
+
+  # Sobre o desafio
+  O objetivo do desafio é criar uma página da RocketSeat, apresentando os cursos e alguns vídeos do Youtube através de cards. 
