@@ -15,10 +15,8 @@
   <a href="LICENSE" >
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
-
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyce-querubino/)](https://www.linkedin.com/in/joyce-querubino/)
-
-  </p>
+</p>
+ 
 
   ## 📚 Sobre o desafio
   O objetivo do desafio é criar um site da **[RocketSeat](https://rocketseat.com.br/)**, apresentando 3 diferentes páginas: 
@@ -36,4 +34,7 @@
   - JavaScript
 
 ---
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyce-querubino/)](https://www.linkedin.com/in/joyce-querubino/)
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joycequerubino5@gmail.com)](mailto:joycequerubino5@gmail.com)
+
 🐱‍👤 Desenvolvido por Joyce Querubino  
