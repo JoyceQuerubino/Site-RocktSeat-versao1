@@ -35,4 +35,5 @@
 
 ---
 🐱‍👤 Desenvolvido por Joyce Querubino
-Me adicione no **[Linkedin]**(https://www.linkedin.com/in/joyce-querubino/)
+
+Me adicione no **[Linkedin](https://www.linkedin.com/in/joyce-querubino/)**
