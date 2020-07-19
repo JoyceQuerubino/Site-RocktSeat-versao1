@@ -34,6 +34,7 @@
   - JavaScript
 
 ---
-🐱‍👤 Desenvolvido por Joyce Querubino
 
-Me adicione no **[Linkedin](https://www.linkedin.com/in/joyce-querubino/)**
+<h1 align= center>
+🐱‍👤 Desenvolvido por **Joyce Querubino** ----- Me adicione no **[Linkedin](https://www.linkedin.com/in/joyce-querubino/)**
+</h1>
