@@ -36,5 +36,5 @@
 ---
 
 <p align= center>
-🐱‍👤 Desenvolvido por <strong>Joyce Querubino</strong>   -----   Me adicione no <a href="https://www.linkedin.com/in/joyce-querubino/" target="_blank" >Linkedin</a>
+🐱‍👤 Desenvolvido por <strong>Joyce Querubino</strong>   -----   Me adicione no <a href="https://www.linkedin.com/in/joyce-querubino/"target="_blank">Linkedin</a>
 </p>
