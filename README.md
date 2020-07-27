@@ -32,6 +32,7 @@
   - HTML
   - CSS
   - JavaScript
+  - Extenção **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** para visual Code
 
 ---
 
